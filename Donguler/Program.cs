@@ -14,6 +14,7 @@ namespace Donguler
             }
 
             Console.WriteLine("for bitti");
+
             foreach (string kurs in kurslar)
             {
                 Console.WriteLine(kurs);
